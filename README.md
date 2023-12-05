@@ -1,5 +1,5 @@
 # Matlab-autonomous-driving-simulation
-This projects provides a demo for creating a simulated autonomoud driving scenario in Matlab, generating the sensor data, and performing the object detection. An accuracy estimation model is also trained. The details for the model will be provided if our paper is accepted. 
+This project provides a demo for creating a simulated autonomoud driving scenario in Matlab, generating the sensor data, and performing the object detection. An accuracy estimation model is also trained. The details for the model will be provided if our paper is accepted. 
 
 # Main procedure
 
