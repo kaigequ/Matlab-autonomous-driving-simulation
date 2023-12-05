@@ -2,30 +2,30 @@
 
 # Main procedure:
 
-cuboidRegionExtraction.m
+1. cuboidRegionExtraction.m
 
-dataQualityExtraction.m
+2. dataQualityExtraction.m
 
-trainVoxnet.m
+3. trainVoxnet.m
 
-generateSensordatawithDifferentSample.m
+4. generateSensordatawithDifferentSample.m
 
-testVoxnet.m
+5. testVoxnet.m
 
-trainAccModel.m
+6. trainAccModel.m
 
-generateAccTable.m
+7. generateAccTable.m
 
 
 # Helper procedure:
 
-drivingScenarioDesigner.m (Open scenario.mat)
+1. drivingScenarioDesigner.m (Open scenario.mat)
 
-HelperBoundingBoxDetector.m
+2. HelperBoundingBoxDetector.m
 
 
 # Evaluation procedure:
 
-evaluateResolutionK.m
+1. evaluateResolutionK.m
 
-evaluatePointNumber.m
+2. evaluatePointNumber.m
