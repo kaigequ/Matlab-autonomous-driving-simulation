@@ -2,11 +2,11 @@
 
 # Main procedure:
 
-# cuboidRegionExtraction.m
+cuboidRegionExtraction.m
 
-# dataQualityExtraction.m
+dataQualityExtraction.m
 
-# trainVoxnet.m
+trainVoxnet.m
 
 generateSensordatawithDifferentSample.m
 
@@ -17,14 +17,14 @@ trainAccModel.m
 generateAccTable.m
 
 
-2. Helper procedure:
+# Helper procedure:
 
 drivingScenarioDesigner.m (Open scenario.mat)
 
 HelperBoundingBoxDetector.m
 
 
-3. Evaluation procedure:
+# Evaluation procedure:
 
 evaluateResolutionK.m
 
