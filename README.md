@@ -1,12 +1,12 @@
 # Matlab-autonomous-driving-simulation
 
-1. Main procedure:
+# Main procedure:
 
-cuboidRegionExtraction.m
+# cuboidRegionExtraction.m
 
-dataQualityExtraction.m
+# dataQualityExtraction.m
 
-trainVoxnet.m
+# trainVoxnet.m
 
 generateSensordatawithDifferentSample.m
 
