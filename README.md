@@ -1,6 +1,6 @@
 # Matlab-autonomous-driving-simulation
 
-# Main procedure:
+# Main procedure
 
 1. cuboidRegionExtraction.m
 
@@ -17,14 +17,14 @@
 7. generateAccTable.m
 
 
-# Helper procedure:
+# Helper procedure
 
 1. drivingScenarioDesigner.m (Open scenario.mat)
 
 2. HelperBoundingBoxDetector.m
 
 
-# Evaluation procedure:
+# Evaluation procedure
 
 1. evaluateResolutionK.m
 
