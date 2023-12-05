@@ -1,22 +1,31 @@
 # Matlab-autonomous-driving-simulation
 
-Main procedure:
+1. Main procedure:
 
 cuboidRegionExtraction.m
+
 dataQualityExtraction.m
+
 trainVoxnet.m
+
 generateSensordatawithDifferentSample.m
+
 testVoxnet.m
+
 trainAccModel.m
+
 generateAccTable.m
 
-Helper procedure:
+
+2. Helper procedure:
 
 drivingScenarioDesigner.m (Open scenario.mat)
+
 HelperBoundingBoxDetector.m
 
 
-Evaluation procedure:
+3. Evaluation procedure:
 
 evaluateResolutionK.m
+
 evaluatePointNumber.m
